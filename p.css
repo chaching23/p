@@ -1,0 +1,161 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   }
+
+.container{
+    width: 970px;
+    height:970px;
+    margin: 0px auto;
+    background-color: #235176; 
+    
+}
+
+.header img{
+    margin:15px;
+    display: inline-block; 
+}
+
+
+.top{
+    display: inline-block; 
+    vertical-align: top; 
+    margin: 20px 0px 0px 170px; 
+    padding: 10px; 
+
+    
+}
+
+    .top p{
+        margin:10px 0px 10px 10px;
+        padding-right: 20px; 
+    
+
+    }
+
+  
+
+    
+    .top input{
+        border-style: solid;
+        border-width: 10px;
+        border-color: grey; 
+        border-radius: 25px;
+
+    
+
+    }
+
+    .top button{
+
+        background-color: #235176; 
+        border-radius: 10px;
+        width: 30px;
+        height: 30px;
+        margin: 5px; 
+
+
+    }
+
+.menu{
+    background-color: #477ead; 
+    border-radius: 25px;
+    margin: 30px; 
+    box-shadow: 5px 5px;
+}
+
+.p{
+
+    display: inline-block; 
+    color: white; 
+    margin: 25px ; 
+    font-size: 25px; 
+
+
+}
+
+.bar{
+    border-color: grey; 
+    border-radius: 25px;
+
+}
+
+
+.lmenu{
+    color: white; 
+    margin: 0px 20px 20px 20px;  
+    width: 150px; 
+    padding: 20px;     
+    display: inline-block; 
+
+}
+
+.lmenu p{
+    margin: 10px;  
+    width: 150px; 
+    color: white; 
+    padding: 5px; 
+}
+
+
+.block {
+    display: inline-block; 
+    width: 600px;
+    vertical-align: top; 
+    margin: 10px 10px 40px 10px; 
+    text-align: center; 
+    color: white; 
+    
+
+
+}
+.yel{
+    margin: 10px 10px 20px 10px; 
+
+
+}
+
+.yellow{
+    text-align: center;
+    color: yellow; 
+    padding: 5px;
+
+}
+
+.zen{ 
+    margin: 20px; 
+
+}
+
+
+
+.banger{
+    width:970px; 
+    height: 200px; 
+    background-color: white; 
+
+}
+
+
+.getting{
+    border-top: 5px solid #73a7d5;
+    display: inline-block; 
+    width: 400px; 
+    text-align: center; 
+    margin: 0px 20px 10px 40px; 
+
+
+
+}
+
+.app{
+    border-top: 5px solid #73a7d5;
+    display: inline-block; 
+    width: 400px; 
+    text-align: center; 
+    margin: 10px; 
+    margin: 20px 20px 10px 20px; 
+
+
+
+}
